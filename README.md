@@ -16,3 +16,15 @@
 ![image](https://github.com/user-attachments/assets/90681d86-3dda-4e16-8fc8-873f918316b3)
 ![image](https://github.com/user-attachments/assets/4de0be29-a1ec-4a0f-855d-94aa460216c9)
 
+🙋‍♀️ Author
+
+Manaswini Sasmal
+
+👩‍💻 Frontend Developer | React Enthusiast
+
+🔗 Portfolio - https://manaswini-portfolio.vercel.app/
+
+📧 manaswinisasmal5597@gmail.com
+
+🔗 LinkedIn - https://www.linkedin.com/in/manaswini-sasmal-b77a21162/
+
